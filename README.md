@@ -47,10 +47,13 @@
     <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40" height="40" alt="Git"/>
 
 - **Databases**:
-    <img src="https://pngimg.com/uploads/mysql/mysql_PNG22.png" width="40" height="40" alt="SQL"/>
-    <img src="https://download.logo.wine/logo/SQLite/SQLite-Logo.wine.png" width="40" height="40" alt="SQL"/>
+  
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
+![SQlite](https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green)
 
 - **Data Analytics**:
+  
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;<!-- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp; -->
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)&nbsp;
