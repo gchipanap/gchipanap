@@ -2,7 +2,7 @@
 Hi, I'm Gabriela Angel!
 
   
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fsara-gatito-gatitos-gato-gatos-gif-22887736&psig=AOvVaw2MuS1JF9DqgGsEgog8DE6u&ust=1701313036343000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDc-4ib6IIDFQAAAAAdAAAAABAJ" width="30"></h1>
+ 
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
  <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/gchipanap/gchipanap/"> </a> 
 <br/>
@@ -12,7 +12,6 @@ Hi, I'm Gabriela Angel!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.metroworldnews.com%2Fentretenimiento%2F2023%2F07%2F26%2Feste-es-el-origen-del-gato-negro-indiferente-mas-famoso-de-tiktok%2F&psig=AOvVaw352_BVTjBCj0qtCd0J5QgE&ust=1701313375149000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDZp6qc6IIDFQAAAAAdAAAAABAE" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
 ```
