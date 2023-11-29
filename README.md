@@ -1,6 +1,8 @@
 <h1 align="center">
 Hi, I'm Gabriela Angel!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+
+  
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fsara-gatito-gatitos-gato-gatos-gif-22887736&psig=AOvVaw2MuS1JF9DqgGsEgog8DE6u&ust=1701313036343000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDc-4ib6IIDFQAAAAAdAAAAABAJ" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
  <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
 <br/>
