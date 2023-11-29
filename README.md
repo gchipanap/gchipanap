@@ -11,13 +11,10 @@
   <img src="https://img.shields.io/badge/Languages-Spanish-dodgerblue" />
 </p>
 
-- 🔭 I’m currently working on my side projects
-- 🌱 I’m currently learning software architecture
-- 👯 I’m looking to collaborate on your open source projects
-- 💬 Ask me about C#
-- 📫 How to reach me: Contact part
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I never thought I would become a .net programmer!
+- 🔭 I’m currently working on my project about visual analysis predictive
+- 🌱 I’m currently learning about video games engines
+- 👯 In my university projects I work as PM
+- I have enough creativity to design interfaces and user experiences
 
 <br>
 
