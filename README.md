@@ -6,7 +6,11 @@ Hi, I'm Gabriela Angel!
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
 <hr>
-
+<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
+ <p align="left">
+  <img src="https://img.shields.io/badge/Focus-PM-dodgerblue" />
+  <img src="https://img.shields.io/badge/Languages-Spanish-dodgerblue" />
+</p>
 ```
 I-am-vishalmaurya@github
 -------------------------
