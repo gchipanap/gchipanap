@@ -26,13 +26,17 @@
     
      <img src="https://user-images.githubusercontent.com/64439609/212555599-9b7ae14f-093a-41bf-8cb8-3cdefd418636.png" width="40" height="40" />
      <img src="https://clipground.com/images/c-programming-logo-png-13.jpg" width="40" height="40" />
-  
+     <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png" width="40" height="40" />
+     <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/181_Java-512.png" width="40" height="40" />
+     <img src="https://tse1.mm.bing.net/th?id=OIP.cd8FsxUhsm53CYM-wj-BBgHaHa&pid=Api&P=0&h=180" width="40" height="40" />
+     <img src="https://images.vexels.com/media/users/3/166470/isolated/preview/73835fa38fba6d35aff9de603dc5044a-php-programming-language-icon-by-vexels.png" width="40" height="40" />
+     <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo-2048x1280.png" width="40" height="40" />
+
 - **Front-End Development**:
 
    <img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" width="40" height="40" alt="HTML" />
    <img src="https://user-images.githubusercontent.com/64439609/212556203-47a51702-fec1-4275-bafb-6afdea15b092.png" width="40" height="40" alt="CSS" />
    <img src="https://user-images.githubusercontent.com/64439609/212556085-e6f8391a-6f25-43d5-8bfe-818167047cfb.png" width="40" height="40" alt="JS"/>
-
 
 
 - **Softwares and Tools**:
